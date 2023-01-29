@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de9fb30c.css",
+    "main.js": "/static/js/main.1363a9bc.js",
+    "static/media/Pasta.JPG": "/static/media/Pasta.02381314c084b7c223e3.JPG",
+    "static/media/Rolls.jpg": "/static/media/Rolls.604b07cacc40d42f4ed0.jpg",
+    "static/media/dhokla.jpg": "/static/media/dhokla.29755605eb6f67e11ab3.jpg",
+    "static/media/kebab.jpeg": "/static/media/kebab.e73c2b6c90592856238e.jpeg",
+    "static/media/samosa.jpg": "/static/media/samosa.b430fa22bf32b14de673.jpg",
+    "static/media/salad.jpeg": "/static/media/salad.b59805b44162db60daf3.jpeg",
+    "static/media/rice.jpg": "/static/media/rice.bbee321018059280cf98.jpg",
+    "static/media/pizza.jpeg": "/static/media/pizza.49b46fca86efe3035a51.jpeg",
+    "static/media/thali.jpeg": "/static/media/thali.37bc6a28f381129fe9fb.jpeg",
+    "static/media/momos.jpeg": "/static/media/momos.c3abbc29088b35234938.jpeg",
+    "index.html": "/index.html",
+    "main.de9fb30c.css.map": "/static/css/main.de9fb30c.css.map",
+    "main.1363a9bc.js.map": "/static/js/main.1363a9bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de9fb30c.css",
+    "static/js/main.1363a9bc.js"
+  ]
+}
